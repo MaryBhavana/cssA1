@@ -1,0 +1,26 @@
+h1 {
+  color: red;
+  font-family: "Times New Roman", Times, serif;
+}
+h3 {
+  color: orangered;
+}
+ol {
+  color: maroon;
+}
+mark {
+  color: brown;
+}
+ul {
+  color: maroon;
+  letter-spacing: 3px;
+}
+dt {
+  color: maroon;
+}
+p {
+  color: maroon;
+}
+a {
+  text-decoration: none;
+}
